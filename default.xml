@@ -28,7 +28,7 @@
   <project remote="gehc-lcs" revision="dunfell" name="meta-dcar-os" path="sources/meta-dcar-os"/>
   <project remote="gehc-lcs" revision="dunfell" name="meta-lcs-os" path="sources/meta-lcs-os"/>
   <project remote="timesys" revision="dunfell" name="meta-timesys" path="sources/meta-timesys"/>
-  <project remote="gehc-lcs" revision="dunfell" name="meta-timesys-security" path="sources/meta-timesys-security"/>
-  <project remote="gehc-lcs" revision="dunfell" name="meta-timesys-test" path="sources/meta-timesys-test"/>
+  <project remote="gehc-lcs" revision="dunfell-next" name="meta-timesys-security" path="sources/meta-timesys-security"/>
+  <project remote="gehc-lcs" revision="master" name="meta-timesys-test" path="sources/meta-timesys-test"/>
 </manifest>
 
